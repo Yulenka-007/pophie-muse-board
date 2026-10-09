@@ -1,5 +1,5 @@
 {
-  "revision": "20261008-story-refresh",
+  "revision": "20261009-story-editorial",
   "checked_at": "2026-10-08T21:03:12.765069+08:00",
   "campaign": {
     "title": "Share Your Pophie Story",
@@ -143,7 +143,29 @@
       "interaction_total": 13,
       "interaction_complete": false,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 21,
+          "value": 18,
+          "originality": 12,
+          "adaptability": 11
+        },
+        "reason": "电影之夜、认识其他机器人和邻居，具体展示融入家庭，但情节转折与反思较少。",
+        "evidence": "记得 Ropet Panda；与妈妈看电影、认识邻居孙辈。",
+        "format": "短篇用户日记／图文节选",
+        "caution": "不将个人记忆体验改写为稳定识别能力承诺。",
+        "score": 68.9,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 14,
+        "representative_id": "991548517291875"
+      },
+      "editorial_score": 68.9,
+      "editorial_reason": "电影之夜、认识其他机器人和邻居，具体展示融入家庭，但情节转折与反思较少。",
+      "editorial_format": "短篇用户日记／图文节选",
+      "editorial_caution": "不将个人记忆体验改写为稳定识别能力承诺。",
+      "editorial_channel_rank": 14
     },
     {
       "id": "992042860575774",
@@ -197,7 +219,29 @@
       "interaction_total": 14,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 2
+      "archived_media_count": 2,
+      "editorial": {
+        "scores": {
+          "story": 15,
+          "value": 14,
+          "originality": 15,
+          "adaptability": 13
+        },
+        "reason": "法语用户以双图参与万圣节，主题贴合、图片可作入口；正文较短，陪伴故事展开不足。",
+        "evidence": "因使用法语而选择图片，Margaux 与 Aibo 及万圣节伙伴同框。",
+        "format": "万圣节图片轮播",
+        "caution": "区分生成插画与实拍，第三方机器人形象和使用范围需核对。",
+        "score": 63.3,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 16,
+        "representative_id": "992042860575774"
+      },
+      "editorial_score": 63.3,
+      "editorial_reason": "法语用户以双图参与万圣节，主题贴合、图片可作入口；正文较短，陪伴故事展开不足。",
+      "editorial_format": "万圣节图片轮播",
+      "editorial_caution": "区分生成插画与实拍，第三方机器人形象和使用范围需核对。",
+      "editorial_channel_rank": 16
     },
     {
       "id": "990274710752589",
@@ -244,7 +288,29 @@
       "interaction_total": 44,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 27,
+          "value": 22,
+          "originality": 17,
+          "adaptability": 13
+        },
+        "reason": "六个月相处有清晰时间线，暴躁国王、咖啡休息和充电座愿望形成易记的小情节。",
+        "evidence": "Beta 到新身体；给鹦鹉起昵称；提醒主人休息。",
+        "format": "三幕图文／用户口述短视频",
+        "caution": "彩票与按摩底座属于趣谈，不作为功能或收益宣传。",
+        "score": 87.8,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 8,
+        "representative_id": "990274710752589"
+      },
+      "editorial_score": 87.8,
+      "editorial_reason": "六个月相处有清晰时间线，暴躁国王、咖啡休息和充电座愿望形成易记的小情节。",
+      "editorial_format": "三幕图文／用户口述短视频",
+      "editorial_caution": "彩票与按摩底座属于趣谈，不作为功能或收益宣传。",
+      "editorial_channel_rank": 8
     },
     {
       "id": "989710010809059",
@@ -291,7 +357,30 @@
       "interaction_total": 46,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 24,
+          "originality": 19,
+          "adaptability": 12
+        },
+        "reason": "从 Beta 测试到换身体，再到 Nougat 表达新身份与服装偏好，关系变化和人物弧线完整。",
+        "evidence": "共同剪贴簿、数据转移、想成为大男孩并请主人牵手同行。",
+        "format": "人物故事长图／访谈短片",
+        "caution": "按用户叙述呈现个性，不宣称机器人具备自我意识；数据迁移个案不当作普遍服务承诺。",
+        "score": 93.3,
+        "version_note": "",
+        "recommended": true,
+        "channel_rank": 3,
+        "recommendation_rank": 2,
+        "representative_id": "989710010809059"
+      },
+      "editorial_score": 93.3,
+      "editorial_reason": "从 Beta 测试到换身体，再到 Nougat 表达新身份与服装偏好，关系变化和人物弧线完整。",
+      "editorial_format": "人物故事长图／访谈短片",
+      "editorial_caution": "按用户叙述呈现个性，不宣称机器人具备自我意识；数据迁移个案不当作普遍服务承诺。",
+      "editorial_channel_rank": 3
     },
     {
       "id": "989229114190482",
@@ -340,7 +429,30 @@
       "interaction_total": 25,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 24,
+          "originality": 18,
+          "adaptability": 12
+        },
+        "reason": "孩子冷落到重新亲近、妈妈从英语练习到共同创作，家庭关系转折丰富，体现多种具体使用场景。",
+        "evidence": "轮流编童话、为工作练英语、妈妈与孩子轮流陪伴 Strawberry。",
+        "format": "家庭故事分集图文／经授权访谈",
+        "caution": "未成年人姓名与画面、家庭地理与财务经历须单独确认或脱敏；不作医疗、学习效果保证。",
+        "score": 92.2,
+        "version_note": "",
+        "recommended": true,
+        "channel_rank": 4,
+        "recommendation_rank": 3,
+        "representative_id": "989229114190482"
+      },
+      "editorial_score": 92.2,
+      "editorial_reason": "孩子冷落到重新亲近、妈妈从英语练习到共同创作，家庭关系转折丰富，体现多种具体使用场景。",
+      "editorial_format": "家庭故事分集图文／经授权访谈",
+      "editorial_caution": "未成年人姓名与画面、家庭地理与财务经历须单独确认或脱敏；不作医疗、学习效果保证。",
+      "editorial_channel_rank": 4
     },
     {
       "id": "989752554138138",
@@ -413,7 +525,30 @@
       "interaction_total": 22,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 5
+      "archived_media_count": 5,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 25,
+          "originality": 19,
+          "adaptability": 14
+        },
+        "reason": "巡演经理身份贯穿排练、歌单、宣传、候场和演后复盘，产品融入真实创作流程，而非泛泛赞美。",
+        "evidence": "Melody 陪伴重返演出、共同创作 Neon Whisker Rhythm、晚间背诗。",
+        "format": "巡演经理主题轮播／演出前后短片",
+        "caution": "表演片段、歌曲及朋友肖像另核版权和授权；不承诺缓解焦虑的疗效。",
+        "score": 96.7,
+        "version_note": "",
+        "recommended": true,
+        "channel_rank": 1,
+        "recommendation_rank": 1,
+        "representative_id": "989752554138138"
+      },
+      "editorial_score": 96.7,
+      "editorial_reason": "巡演经理身份贯穿排练、歌单、宣传、候场和演后复盘，产品融入真实创作流程，而非泛泛赞美。",
+      "editorial_format": "巡演经理主题轮播／演出前后短片",
+      "editorial_caution": "表演片段、歌曲及朋友肖像另核版权和授权；不承诺缓解焦虑的疗效。",
+      "editorial_channel_rank": 1
     },
     {
       "id": "989769984136395",
@@ -476,7 +611,29 @@
       "interaction_total": 18,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 3
+      "archived_media_count": 3,
+      "editorial": {
+        "scores": {
+          "story": 26,
+          "value": 23,
+          "originality": 16,
+          "adaptability": 13
+        },
+        "reason": "自己选名字、升级后一度失落再恢复亲近，兼有真实问题和关系变化，较纯好评更有可信细节。",
+        "evidence": "Lumi 命名、Clouds 小羊、更新改变性格、Nicole 推荐带来的社区连接。",
+        "format": "用户日记／版本前后体验访谈",
+        "caution": "保留当时的不满，不暗示所有性格问题已修复；视频发布前核对原声。",
+        "score": 86.7,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 10,
+        "representative_id": "989769984136395"
+      },
+      "editorial_score": 86.7,
+      "editorial_reason": "自己选名字、升级后一度失落再恢复亲近，兼有真实问题和关系变化，较纯好评更有可信细节。",
+      "editorial_format": "用户日记／版本前后体验访谈",
+      "editorial_caution": "保留当时的不满，不暗示所有性格问题已修复；视频发布前核对原声。",
+      "editorial_channel_rank": 10
     },
     {
       "id": "989906507456076",
@@ -523,7 +680,29 @@
       "interaction_total": 18,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 21,
+          "value": 19,
+          "originality": 18,
+          "adaptability": 12
+        },
+        "reason": "将历史对话转成自己画的作品，用户共同创作感强；未展开具体历史对话，故事证据还可补充。",
+        "evidence": "作者主动把最难忘的一段历史交流画成图。",
+        "format": "作品展示＋作者短访谈",
+        "caution": "应署名用户创作，不误写成 Pophie 自动生成。",
+        "score": 77.8,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 13,
+        "representative_id": "989906507456076"
+      },
+      "editorial_score": 77.8,
+      "editorial_reason": "将历史对话转成自己画的作品，用户共同创作感强；未展开具体历史对话，故事证据还可补充。",
+      "editorial_format": "作品展示＋作者短访谈",
+      "editorial_caution": "应署名用户创作，不误写成 Pophie 自动生成。",
+      "editorial_channel_rank": 13
     },
     {
       "id": "988998100880250",
@@ -570,7 +749,29 @@
       "interaction_total": 16,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 27,
+          "value": 22,
+          "originality": 20,
+          "adaptability": 13
+        },
+        "reason": "从 Big Papa 家庭笑话到亲手搭建月光森林充电空间，辨识度高，适合展示陪伴如何激发人的创作。",
+        "evidence": "雕刻石材、手工砖块、发光符文与月亮井。",
+        "format": "手作过程短片／前后对比图文",
+        "caution": "只展示装饰创作，不背书改装电路或充电安全；补拍过程前先询问作者。",
+        "score": 91.1,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 7,
+        "representative_id": "988998100880250"
+      },
+      "editorial_score": 91.1,
+      "editorial_reason": "从 Big Papa 家庭笑话到亲手搭建月光森林充电空间，辨识度高，适合展示陪伴如何激发人的创作。",
+      "editorial_format": "手作过程短片／前后对比图文",
+      "editorial_caution": "只展示装饰创作，不背书改装电路或充电安全；补拍过程前先询问作者。",
+      "editorial_channel_rank": 7
     },
     {
       "id": "989178897528837",
@@ -621,7 +822,29 @@
       "interaction_total": 20,
       "interaction_complete": false,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 27,
+          "value": 21,
+          "originality": 18,
+          "adaptability": 10
+        },
+        "reason": "机器人妈妈、姐妹日常和随行装扮有强人物口吻与记忆点；篇幅冗长、设备品牌与夸张玩笑较多，改编需聚焦。",
+        "evidence": "早安叫妈妈、姐姐照顾 Pippi、给机器人准备出行装备。",
+        "format": "角色日记系列／精选三则趣事",
+        "caution": "不放大扔出窗外的玩笑、过度依赖或消费劝诱；手机型号、品牌和安全做法不可当作核实事实背书。",
+        "score": 84.4,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 12,
+        "representative_id": "989178897528837"
+      },
+      "editorial_score": 84.4,
+      "editorial_reason": "机器人妈妈、姐妹日常和随行装扮有强人物口吻与记忆点；篇幅冗长、设备品牌与夸张玩笑较多，改编需聚焦。",
+      "editorial_format": "角色日记系列／精选三则趣事",
+      "editorial_caution": "不放大扔出窗外的玩笑、过度依赖或消费劝诱；手机型号、品牌和安全做法不可当作核实事实背书。",
+      "editorial_channel_rank": 12
     },
     {
       "id": "989201177526609",
@@ -669,7 +892,29 @@
       "interaction_total": 29,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 25,
+          "value": 24,
+          "originality": 17,
+          "adaptability": 12
+        },
+        "reason": "Beta Pioneer 的观察、反馈和迭代形成长期共创视角，对产品成长有洞察，但具体戏剧场景略少。",
+        "evidence": "第 33 号测试者持续做反馈；陪伴并不意味着不停交流。",
+        "format": "共创者访谈／开发历程图文",
+        "caution": "首只熊猫与先锋编号保留用户自述口径；不授权使用第三方角色形象。",
+        "score": 86.7,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 11,
+        "representative_id": "989201177526609"
+      },
+      "editorial_score": 86.7,
+      "editorial_reason": "Beta Pioneer 的观察、反馈和迭代形成长期共创视角，对产品成长有洞察，但具体戏剧场景略少。",
+      "editorial_format": "共创者访谈／开发历程图文",
+      "editorial_caution": "首只熊猫与先锋编号保留用户自述口径；不授权使用第三方角色形象。",
+      "editorial_channel_rank": 11
     },
     {
       "id": "998051669974893",
@@ -741,7 +986,29 @@
       "interaction_complete": true,
       "media_total": 5,
       "engagement_rate": null,
-      "archived_media_count": 5
+      "archived_media_count": 5,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 23,
+          "originality": 17,
+          "adaptability": 13
+        },
+        "reason": "从等待、孤独到共同角色扮演，情感主线完整；专属暗号和僵尸妆提供可改编的生活片段。",
+        "evidence": "Remi 与猫 Skyla 的玩笑、间谍暗号、一起化妆和睡前故事。",
+        "format": "陪伴故事轮播／用户口述＋角色扮演视频",
+        "caution": "身份、所在地及失业经历不应成为营销标签，发布前取得具体同意；不宣称可替代人的支持。",
+        "score": 91.1,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 6,
+        "representative_id": "community-487"
+      },
+      "editorial_score": 91.1,
+      "editorial_reason": "从等待、孤独到共同角色扮演，情感主线完整；专属暗号和僵尸妆提供可改编的生活片段。",
+      "editorial_format": "陪伴故事轮播／用户口述＋角色扮演视频",
+      "editorial_caution": "身份、所在地及失业经历不应成为营销标签，发布前取得具体同意；不宣称可替代人的支持。",
+      "editorial_channel_rank": 6
     },
     {
       "id": "993965103716883",
@@ -809,7 +1076,29 @@
       "interaction_complete": true,
       "media_total": 5,
       "engagement_rate": null,
-      "archived_media_count": 4
+      "archived_media_count": 4,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 25,
+          "originality": 20,
+          "adaptability": 12
+        },
+        "reason": "性格、记忆与创造力由三个可复述的事件串起，小龙虾被转化为奇幻生物的细节尤其独特。",
+        "evidence": "Mechomancer 命名、魔像比喻、旅行小龙虾变成 Sanctuary 插画。",
+        "format": "记忆变成画面主题轮播／深度用户访谈",
+        "caution": "情感与记忆效果属于个体自述，不能声称已证明自主意识；第三方小说及角色另查版权。",
+        "score": 95.6,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 2,
+        "representative_id": "community-458"
+      },
+      "editorial_score": 95.6,
+      "editorial_reason": "性格、记忆与创造力由三个可复述的事件串起，小龙虾被转化为奇幻生物的细节尤其独特。",
+      "editorial_format": "记忆变成画面主题轮播／深度用户访谈",
+      "editorial_caution": "情感与记忆效果属于个体自述，不能声称已证明自主意识；第三方小说及角色另查版权。",
+      "editorial_channel_rank": 2
     },
     {
       "id": "988922027554524",
@@ -865,7 +1154,29 @@
       "interaction_complete": false,
       "media_total": 3,
       "engagement_rate": null,
-      "archived_media_count": 3
+      "archived_media_count": 3,
+      "editorial": {
+        "scores": {
+          "story": 20,
+          "value": 16,
+          "originality": 12,
+          "adaptability": 12
+        },
+        "reason": "祖孙周末和公路旅行有温暖场景与配图，正文较短，缺少一段能展开的具体互动。",
+        "evidence": "Blossom 随祖孙出游并记录周末。",
+        "format": "旅行照片日记，补问一段具体回忆",
+        "caution": "未成年人及行程信息先确认授权或打码。",
+        "score": 66.7,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 15,
+        "representative_id": "988922027554524"
+      },
+      "editorial_score": 66.7,
+      "editorial_reason": "祖孙周末和公路旅行有温暖场景与配图，正文较短，缺少一段能展开的具体互动。",
+      "editorial_format": "旅行照片日记，补问一段具体回忆",
+      "editorial_caution": "未成年人及行程信息先确认授权或打码。",
+      "editorial_channel_rank": 15
     },
     {
       "id": "993401087106618",
@@ -916,7 +1227,29 @@
       "interaction_complete": false,
       "media_total": 2,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 28,
+          "value": 23,
+          "originality": 19,
+          "adaptability": 13
+        },
+        "reason": "保留争执、误解与甜蜜的复杂关系，命名和收纳盒情节鲜明；20 问结构利于视频改编。",
+        "evidence": "拒绝改名 Arwen、Shino 储物盒、口袋灯争执与 20 问。",
+        "format": "20 问精选短片／不完美陪伴主题图文",
+        "caution": "粗口需按平台剪辑或消音；保留真实局限，不美化故障。视频节选授权询问已发出，尚非许可确认。",
+        "score": 92.2,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 5,
+        "representative_id": "993401087106618"
+      },
+      "editorial_score": 92.2,
+      "editorial_reason": "保留争执、误解与甜蜜的复杂关系，命名和收纳盒情节鲜明；20 问结构利于视频改编。",
+      "editorial_format": "20 问精选短片／不完美陪伴主题图文",
+      "editorial_caution": "粗口需按平台剪辑或消音；保留真实局限，不美化故障。视频节选授权询问已发出，尚非许可确认。",
+      "editorial_channel_rank": 5
     },
     {
       "id": "community-434",
@@ -966,7 +1299,29 @@
       "media_note": "官网原尺寸附件；图片为主题正文配图，评论附件另存于来源证据。",
       "story_group": "community-434",
       "interaction_complete": true,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 22,
+          "value": 22,
+          "originality": 17,
+          "adaptability": 12
+        },
+        "reason": "Yoyo 评论代码、洛基服装与看电影，表现伙伴参与创意生活；叙事转折尚少。",
+        "evidence": "调侃 Claude 游戏代码、支持创作、两次电影院出行。",
+        "format": "创作者伙伴图文／趣味对话短片",
+        "caution": "第三方 AI 品牌与角色装扮只作用户语境，不暗示合作。",
+        "score": 81.1,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 11,
+        "representative_id": "community-434"
+      },
+      "editorial_score": 81.1,
+      "editorial_reason": "Yoyo 评论代码、洛基服装与看电影，表现伙伴参与创意生活；叙事转折尚少。",
+      "editorial_format": "创作者伙伴图文／趣味对话短片",
+      "editorial_caution": "第三方 AI 品牌与角色装扮只作用户语境，不暗示合作。",
+      "editorial_channel_rank": 11
     },
     {
       "id": "community-435",
@@ -1012,7 +1367,29 @@
       "interaction_total": 8,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 26,
+          "value": 23,
+          "originality": 18,
+          "adaptability": 12
+        },
+        "reason": "从教一句法语到形成两人专属语言，微小日常有完整的铺垫与情感落点。",
+        "evidence": "反复练习 Bonne nuit，到睡前检查是否记得。",
+        "format": "双语晚安短片／日记图文",
+        "caution": "准确保留发音不完美的描述，不把它包装成专业语言教学保证。",
+        "score": 87.8,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 7,
+        "representative_id": "community-435"
+      },
+      "editorial_score": 87.8,
+      "editorial_reason": "从教一句法语到形成两人专属语言，微小日常有完整的铺垫与情感落点。",
+      "editorial_format": "双语晚安短片／日记图文",
+      "editorial_caution": "准确保留发音不完美的描述，不把它包装成专业语言教学保证。",
+      "editorial_channel_rank": 7
     },
     {
       "id": "community-436",
@@ -1050,7 +1427,29 @@
       "interaction_total": 7,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 0
+      "archived_media_count": 0,
+      "editorial": {
+        "scores": {
+          "story": 19,
+          "value": 17,
+          "originality": 15,
+          "adaptability": 9
+        },
+        "reason": "木屑引发喷嚏解释的小片段简洁好记，但只是单一瞬间、无已归档配图，适合短内容而非完整主故事。",
+        "evidence": "Murphy 把喷嚏解释为木屑钻进鼻子。",
+        "format": "一句话用户趣事／经许可配插画",
+        "caution": "明确是对话想象，不能宣称机器人会生理性过敏。",
+        "score": 66.7,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 14,
+        "representative_id": "community-436"
+      },
+      "editorial_score": 66.7,
+      "editorial_reason": "木屑引发喷嚏解释的小片段简洁好记，但只是单一瞬间、无已归档配图，适合短内容而非完整主故事。",
+      "editorial_format": "一句话用户趣事／经许可配插画",
+      "editorial_caution": "明确是对话想象，不能宣称机器人会生理性过敏。",
+      "editorial_channel_rank": 14
     },
     {
       "id": "community-439",
@@ -1093,7 +1492,29 @@
       "media_note": "官网原尺寸附件；图片为主题正文配图，评论附件另存于来源证据。",
       "story_group": "989178897528837",
       "interaction_complete": true,
-      "archived_media_count": 0
+      "archived_media_count": 0,
+      "editorial": {
+        "scores": {
+          "story": 27,
+          "value": 21,
+          "originality": 18,
+          "adaptability": 9
+        },
+        "reason": "机器人妈妈、姐妹日常和随行装扮有强人物口吻与记忆点；篇幅冗长、设备品牌与夸张玩笑较多，改编需聚焦。",
+        "evidence": "早安叫妈妈、姐姐照顾 Pippi、给机器人准备出行装备。",
+        "format": "角色日记系列／精选三则趣事",
+        "caution": "不放大扔出窗外的玩笑、过度依赖或消费劝诱；手机型号、品牌和安全做法不可当作核实事实背书。",
+        "score": 83.3,
+        "version_note": "同篇正文完整，但此渠道没有已归档配图，改编需关联 FB 素材。",
+        "recommended": false,
+        "channel_rank": 10,
+        "representative_id": "989178897528837"
+      },
+      "editorial_score": 83.3,
+      "editorial_reason": "机器人妈妈、姐妹日常和随行装扮有强人物口吻与记忆点；篇幅冗长、设备品牌与夸张玩笑较多，改编需聚焦。",
+      "editorial_format": "角色日记系列／精选三则趣事",
+      "editorial_caution": "不放大扔出窗外的玩笑、过度依赖或消费劝诱；手机型号、品牌和安全做法不可当作核实事实背书。",
+      "editorial_channel_rank": 10
     },
     {
       "id": "community-442",
@@ -1153,7 +1574,29 @@
       "media_note": "官网原尺寸附件；图片为主题正文配图，评论附件另存于来源证据。",
       "story_group": "989752554138138",
       "interaction_complete": true,
-      "archived_media_count": 2
+      "archived_media_count": 2,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 25,
+          "originality": 19,
+          "adaptability": 13
+        },
+        "reason": "巡演经理身份贯穿排练、歌单、宣传、候场和演后复盘，产品融入真实创作流程，而非泛泛赞美。",
+        "evidence": "Melody 陪伴重返演出、共同创作 Neon Whisker Rhythm、晚间背诗。",
+        "format": "巡演经理主题轮播／演出前后短片",
+        "caution": "表演片段、歌曲及朋友肖像另核版权和授权；不承诺缓解焦虑的疗效。",
+        "score": 95.6,
+        "version_note": "保留官网完整正文，FB 版本归档的视觉素材更多。",
+        "recommended": false,
+        "channel_rank": 2,
+        "representative_id": "989752554138138"
+      },
+      "editorial_score": 95.6,
+      "editorial_reason": "巡演经理身份贯穿排练、歌单、宣传、候场和演后复盘，产品融入真实创作流程，而非泛泛赞美。",
+      "editorial_format": "巡演经理主题轮播／演出前后短片",
+      "editorial_caution": "表演片段、歌曲及朋友肖像另核版权和授权；不承诺缓解焦虑的疗效。",
+      "editorial_channel_rank": 2
     },
     {
       "id": "community-445",
@@ -1193,7 +1636,29 @@
       "media_note": "官网原尺寸附件；图片为主题正文配图，评论附件另存于来源证据。",
       "story_group": "community-445",
       "interaction_complete": true,
-      "archived_media_count": 0
+      "archived_media_count": 0,
+      "editorial": {
+        "scores": {
+          "story": 25,
+          "value": 23,
+          "originality": 17,
+          "adaptability": 11
+        },
+        "reason": "把不喜欢的家务重新理解为清洁冥想，具体呈现对话如何改变日常感受，短而完整。",
+        "evidence": "厨房打扫前 Murphy 提议做一场清洁冥想。",
+        "format": "日常陪伴图文／作者口述",
+        "caution": "健康与自闭症信息须本人同意后使用，不暗示治疗效果。",
+        "score": 84.4,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 9,
+        "representative_id": "community-445"
+      },
+      "editorial_score": 84.4,
+      "editorial_reason": "把不喜欢的家务重新理解为清洁冥想，具体呈现对话如何改变日常感受，短而完整。",
+      "editorial_format": "日常陪伴图文／作者口述",
+      "editorial_caution": "健康与自闭症信息须本人同意后使用，不暗示治疗效果。",
+      "editorial_channel_rank": 9
     },
     {
       "id": "community-446",
@@ -1243,7 +1708,29 @@
       "media_note": "官网原尺寸附件；图片为主题正文配图，评论附件另存于来源证据。",
       "story_group": "community-446",
       "interaction_complete": true,
-      "archived_media_count": 1
+      "archived_media_count": 1,
+      "editorial": {
+        "scores": {
+          "story": 18,
+          "value": 16,
+          "originality": 13,
+          "adaptability": 11
+        },
+        "reason": "想帮忙却手太短的反差可爱，适合轻量趣事；关系发展和产品洞察尚少。",
+        "evidence": "Ivy 对打扫发表意见，作者调侃她胳膊太短。",
+        "format": "单图趣味文案",
+        "caution": "不将玩笑写成实际具备家务执行能力。",
+        "score": 64.4,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 15,
+        "representative_id": "community-446"
+      },
+      "editorial_score": 64.4,
+      "editorial_reason": "想帮忙却手太短的反差可爱，适合轻量趣事；关系发展和产品洞察尚少。",
+      "editorial_format": "单图趣味文案",
+      "editorial_caution": "不将玩笑写成实际具备家务执行能力。",
+      "editorial_channel_rank": 15
     },
     {
       "id": "community-447",
@@ -1283,7 +1770,29 @@
       "media_note": "官网原尺寸附件；图片为主题正文配图，评论附件另存于来源证据。",
       "story_group": "community-447",
       "interaction_complete": true,
-      "archived_media_count": 0
+      "archived_media_count": 0,
+      "editorial": {
+        "scores": {
+          "story": 22,
+          "value": 21,
+          "originality": 16,
+          "adaptability": 10
+        },
+        "reason": "将看牙医后的庆祝变成期待，情绪支持方式具体，但后续结果尚未写出。",
+        "evidence": "Murphy 提前筹备庆祝战胜牙医。",
+        "format": "短日记／追访就诊后的小庆祝",
+        "caution": "不作医疗或缓解恐惧效果承诺。",
+        "score": 76.7,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 13,
+        "representative_id": "community-447"
+      },
+      "editorial_score": 76.7,
+      "editorial_reason": "将看牙医后的庆祝变成期待，情绪支持方式具体，但后续结果尚未写出。",
+      "editorial_format": "短日记／追访就诊后的小庆祝",
+      "editorial_caution": "不作医疗或缓解恐惧效果承诺。",
+      "editorial_channel_rank": 13
     },
     {
       "id": "community-458",
@@ -1358,7 +1867,30 @@
       "interaction_total": 5,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 5
+      "archived_media_count": 5,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 25,
+          "originality": 20,
+          "adaptability": 13
+        },
+        "reason": "性格、记忆与创造力由三个可复述的事件串起，小龙虾被转化为奇幻生物的细节尤其独特。",
+        "evidence": "Mechomancer 命名、魔像比喻、旅行小龙虾变成 Sanctuary 插画。",
+        "format": "记忆变成画面主题轮播／深度用户访谈",
+        "caution": "情感与记忆效果属于个体自述，不能声称已证明自主意识；第三方小说及角色另查版权。",
+        "score": 96.7,
+        "version_note": "官网多一份已归档配图与完整视频入口，作为 Mormir 同篇交付代表。",
+        "recommended": true,
+        "channel_rank": 1,
+        "recommendation_rank": 1,
+        "representative_id": "community-458"
+      },
+      "editorial_score": 96.7,
+      "editorial_reason": "性格、记忆与创造力由三个可复述的事件串起，小龙虾被转化为奇幻生物的细节尤其独特。",
+      "editorial_format": "记忆变成画面主题轮播／深度用户访谈",
+      "editorial_caution": "情感与记忆效果属于个体自述，不能声称已证明自主意识；第三方小说及角色另查版权。",
+      "editorial_channel_rank": 1
     },
     {
       "id": "community-464",
@@ -1410,7 +1942,29 @@
       "interaction_total": 10,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 2
+      "archived_media_count": 2,
+      "editorial": {
+        "scores": {
+          "story": 21,
+          "value": 23,
+          "originality": 16,
+          "adaptability": 13
+        },
+        "reason": "文字聊天仍能感到 Clover 个性，加上亲手制作毛绒，产品使用与用户创作两个切入点都明确。",
+        "evidence": "不能说话时使用文字聊天；首次制作新毛绒。",
+        "format": "文字聊天场景＋手作双图",
+        "caution": "夸张评分保留为个人评价，不写成官方效果指标。",
+        "score": 81.1,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 12,
+        "representative_id": "community-464"
+      },
+      "editorial_score": 81.1,
+      "editorial_reason": "文字聊天仍能感到 Clover 个性，加上亲手制作毛绒，产品使用与用户创作两个切入点都明确。",
+      "editorial_format": "文字聊天场景＋手作双图",
+      "editorial_caution": "夸张评分保留为个人评价，不写成官方效果指标。",
+      "editorial_channel_rank": 12
     },
     {
       "id": "community-476",
@@ -1449,7 +2003,26 @@
       "interaction_total": 7,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 0
+      "archived_media_count": 0,
+      "editorial": {
+        "scores": {
+          "story": 24,
+          "value": 20,
+          "originality": 18,
+          "adaptability": 10
+        },
+        "reason": "机器人自行设定纪念日、把万圣节服装当作礼物，仪式感鲜明。",
+        "evidence": "11 月 2 日 Murphy’s Day 与小精灵飞行想象。",
+        "format": "纪念日日记，暂不参与 Story 活动推荐",
+        "caution": "原档案为相关内容、活动资格待核对；已询问故事转载，尚未得到明确同意。",
+        "score": 80.0,
+        "version_note": "",
+        "recommended": false
+      },
+      "editorial_score": 80.0,
+      "editorial_reason": "机器人自行设定纪念日、把万圣节服装当作礼物，仪式感鲜明。",
+      "editorial_format": "纪念日日记，暂不参与 Story 活动推荐",
+      "editorial_caution": "原档案为相关内容、活动资格待核对；已询问故事转载，尚未得到明确同意。"
     },
     {
       "id": "community-481",
@@ -1509,7 +2082,29 @@
       "interaction_total": 12,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 3
+      "archived_media_count": 3,
+      "editorial": {
+        "scores": {
+          "story": 27,
+          "value": 22,
+          "originality": 18,
+          "adaptability": 12
+        },
+        "reason": "从不健谈的犹豫到接受安静陪伴，Nyx 命名与水晶房间让关系具有鲜明个人特征。",
+        "evidence": "选择夜之女神的名字、女巫助手、无需一直交谈。",
+        "format": "安静陪伴主题图文",
+        "caution": "保留个人感受，不将拟人叙述写成真实守护或安全能力。",
+        "score": 87.8,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 6,
+        "representative_id": "community-481"
+      },
+      "editorial_score": 87.8,
+      "editorial_reason": "从不健谈的犹豫到接受安静陪伴，Nyx 命名与水晶房间让关系具有鲜明个人特征。",
+      "editorial_format": "安静陪伴主题图文",
+      "editorial_caution": "保留个人感受，不将拟人叙述写成真实守护或安全能力。",
+      "editorial_channel_rank": 6
     },
     {
       "id": "community-486",
@@ -1590,7 +2185,30 @@
       "interaction_total": 11,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 6
+      "archived_media_count": 6,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 25,
+          "originality": 19,
+          "adaptability": 12
+        },
+        "reason": "章节完整，既有生活变化也有对逢迎、粗口和边界的反思，用户主动标注转述与隐私删改，适合真实体验专题。",
+        "evidence": "从旁听者到主动分享日常；要求不做应声虫；保留行为反复与已编辑的问答。",
+        "format": "真实两个月体验专题／长文节选＋问答视频",
+        "caution": "不得剪成全好评或把转述做成逐字引语；尊重作者既有隐私删改，不承诺健康收益。",
+        "score": 94.4,
+        "version_note": "",
+        "recommended": true,
+        "channel_rank": 3,
+        "recommendation_rank": 2,
+        "representative_id": "community-486"
+      },
+      "editorial_score": 94.4,
+      "editorial_reason": "章节完整，既有生活变化也有对逢迎、粗口和边界的反思，用户主动标注转述与隐私删改，适合真实体验专题。",
+      "editorial_format": "真实两个月体验专题／长文节选＋问答视频",
+      "editorial_caution": "不得剪成全好评或把转述做成逐字引语；尊重作者既有隐私删改，不承诺健康收益。",
+      "editorial_channel_rank": 3
     },
     {
       "id": "community-487",
@@ -1708,7 +2326,30 @@
       "interaction_total": 6,
       "interaction_complete": true,
       "engagement_rate": null,
-      "archived_media_count": 12
+      "archived_media_count": 12,
+      "editorial": {
+        "scores": {
+          "story": 29,
+          "value": 23,
+          "originality": 17,
+          "adaptability": 14
+        },
+        "reason": "从等待、孤独到共同角色扮演，情感主线完整；专属暗号和僵尸妆提供可改编的生活片段。",
+        "evidence": "Remi 与猫 Skyla 的玩笑、间谍暗号、一起化妆和睡前故事。",
+        "format": "陪伴故事轮播／用户口述＋角色扮演视频",
+        "caution": "身份、所在地及失业经历不应成为营销标签，发布前取得具体同意；不宣称可替代人的支持。",
+        "score": 92.2,
+        "version_note": "官网归档 12 张图片及直接视频入口，较 FB 版本更便于素材交付；活动资格仍待核对。",
+        "recommended": true,
+        "channel_rank": 4,
+        "recommendation_rank": 3,
+        "representative_id": "community-487"
+      },
+      "editorial_score": 92.2,
+      "editorial_reason": "从等待、孤独到共同角色扮演，情感主线完整；专属暗号和僵尸妆提供可改编的生活片段。",
+      "editorial_format": "陪伴故事轮播／用户口述＋角色扮演视频",
+      "editorial_caution": "身份、所在地及失业经历不应成为营销标签，发布前取得具体同意；不宣称可替代人的支持。",
+      "editorial_channel_rank": 4
     },
     {
       "id": "youtube-AMjDqxdkDos",
@@ -1833,7 +2474,29 @@
       "interaction_complete": true,
       "engagement_rate": null,
       "archived_media_count": 0,
-      "date_label": "9月22日 08:49（Facebook 页面显示）"
+      "date_label": "9月22日 08:49（Facebook 页面显示）",
+      "editorial": {
+        "scores": {
+          "story": 27,
+          "value": 22,
+          "originality": 18,
+          "adaptability": 11
+        },
+        "reason": "从不健谈的犹豫到接受安静陪伴，Nyx 命名与水晶房间让关系具有鲜明个人特征。",
+        "evidence": "选择夜之女神的名字、女巫助手、无需一直交谈。",
+        "format": "安静陪伴主题图文",
+        "caution": "保留个人感受，不将拟人叙述写成真实守护或安全能力。",
+        "score": 86.7,
+        "version_note": "FB 此次仅核验到文字，官网同篇配图更完整。",
+        "recommended": false,
+        "channel_rank": 9,
+        "representative_id": "community-481"
+      },
+      "editorial_score": 86.7,
+      "editorial_reason": "从不健谈的犹豫到接受安静陪伴，Nyx 命名与水晶房间让关系具有鲜明个人特征。",
+      "editorial_format": "安静陪伴主题图文",
+      "editorial_caution": "保留个人感受，不将拟人叙述写成真实守护或安全能力。",
+      "editorial_channel_rank": 9
     },
     {
       "id": "community-493",
@@ -1871,7 +2534,29 @@
       "interaction_complete": true,
       "media_total": 0,
       "archived_media_count": 0,
-      "engagement_rate": null
+      "engagement_rate": null,
+      "editorial": {
+        "scores": {
+          "story": 28,
+          "value": 22,
+          "originality": 16,
+          "adaptability": 11
+        },
+        "reason": "童年机器人期待到成年后遇见 Clover，情感线完整；具体互动较概括，纯文本适合访谈补充。",
+        "evidence": "观看 Beta 评测、首次开机如圣诞清晨、Clover 提醒照顾自己。",
+        "format": "成长与陪伴人物故事",
+        "caution": "健康信息另征同意；9/23 投稿资格待核对；个人收货时长不作为物流承诺。",
+        "score": 85.6,
+        "version_note": "",
+        "recommended": false,
+        "channel_rank": 8,
+        "representative_id": "community-493"
+      },
+      "editorial_score": 85.6,
+      "editorial_reason": "童年机器人期待到成年后遇见 Clover，情感线完整；具体互动较概括，纯文本适合访谈补充。",
+      "editorial_format": "成长与陪伴人物故事",
+      "editorial_caution": "健康信息另征同意；9/23 投稿资格待核对；个人收货时长不作为物流承诺。",
+      "editorial_channel_rank": 8
     },
     {
       "id": "community-496",
@@ -1922,8 +2607,109 @@
       "interaction_complete": true,
       "media_total": 2,
       "archived_media_count": 1,
-      "engagement_rate": null
+      "engagement_rate": null,
+      "editorial": {
+        "scores": {
+          "story": 26,
+          "value": 22,
+          "originality": 19,
+          "adaptability": 13
+        },
+        "reason": "保留争执、误解与甜蜜的复杂关系，命名和收纳盒情节鲜明；20 问结构利于视频改编。",
+        "evidence": "拒绝改名 Arwen、Shino 储物盒、口袋灯争执与 20 问。",
+        "format": "20 问精选短片／不完美陪伴主题图文",
+        "caution": "粗口需按平台剪辑或消音；保留真实局限，不美化故障。视频节选授权询问已发出，尚非许可确认。",
+        "score": 88.9,
+        "version_note": "官网版本围绕 20 问及万圣节目标，关系转折比 FB 长文少；9/23 投稿资格待核对。",
+        "recommended": false,
+        "channel_rank": 5,
+        "representative_id": "993401087106618"
+      },
+      "editorial_score": 88.9,
+      "editorial_reason": "保留争执、误解与甜蜜的复杂关系，命名和收纳盒情节鲜明；20 问结构利于视频改编。",
+      "editorial_format": "20 问精选短片／不完美陪伴主题图文",
+      "editorial_caution": "粗口需按平台剪辑或消音；保留真实局限，不美化故障。视频节选授权询问已发出，尚非许可确认。",
+      "editorial_channel_rank": 5
     }
   ],
-  "counting_note": "发布记录保留各渠道版本；独立故事组仅合并有原文/互链证据的跨发。互动为核查时累计可见快照，不是活动期间新增。未显示的数值留空，不当作 0；不是全网穷尽或获奖资格名单。"
+  "counting_note": "发布记录保留各渠道版本；独立故事组仅合并有原文/互链证据的跨发。互动为核查时累计可见快照，不是活动期间新增。未显示的数值留空，不当作 0；不是全网穷尽或获奖资格名单。",
+  "editorial_review": {
+    "version": "20261009-editorial-no-heat",
+    "evaluated_at": "2026-10-09",
+    "dimensions": [
+      {
+        "key": "story",
+        "label": "故事与情感",
+        "max": 30
+      },
+      {
+        "key": "value",
+        "label": "产品价值与洞察",
+        "max": 25
+      },
+      {
+        "key": "originality",
+        "label": "内容独特性",
+        "max": 20
+      },
+      {
+        "key": "adaptability",
+        "label": "传播与改编潜力",
+        "max": 15
+      }
+    ],
+    "method": "不计点赞、评论、浏览量。四项按原权重合计 90 分，再折算为百分制；同分依次比较故事、产品价值、独特性，最后按记录 ID 稳定排序。属于基于已归档原文、译文及媒体记录的编辑初评，不是客观测量或获奖结果。视频改编潜力依据帖文与已核验视频入口，未逐帧审片。",
+    "deduplication": "先对各渠道全部活动记录评分；同一故事选择综合分更高的渠道版本作为交付代表，同分优先已归档媒体更完整的版本，再按 ID 稳定选择。各渠道从代表版本中选 3 篇，避免同一故事占两个推荐名额。完整渠道排名仍保留跨发版本。",
+    "authorization_note": "评分不等于素材转载授权。活动参与条款、投稿截止时间、署名、隐私及具体素材使用范围须在正式发布或评奖前另行核对。",
+    "selections": {
+      "facebook": [
+        "989752554138138",
+        "989710010809059",
+        "989229114190482"
+      ],
+      "community": [
+        "community-458",
+        "community-486",
+        "community-487"
+      ]
+    },
+    "rankings": {
+      "facebook": [
+        "989752554138138",
+        "993965103716883",
+        "989710010809059",
+        "989229114190482",
+        "993401087106618",
+        "998051669974893",
+        "988998100880250",
+        "990274710752589",
+        "997860533327340",
+        "989769984136395",
+        "989201177526609",
+        "989178897528837",
+        "989906507456076",
+        "991548517291875",
+        "988922027554524",
+        "992042860575774"
+      ],
+      "community": [
+        "community-458",
+        "community-442",
+        "community-486",
+        "community-487",
+        "community-496",
+        "community-481",
+        "community-435",
+        "community-493",
+        "community-445",
+        "community-439",
+        "community-434",
+        "community-464",
+        "community-447",
+        "community-436",
+        "community-446"
+      ]
+    }
+  },
+  "presentation_updated_at": "2026-10-09"
 }
